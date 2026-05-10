@@ -1,4 +1,4 @@
-# SLPA — Vehicle Management UI
+# SLPA - Vehicle Management UI
 
 A web-based front-end for the **Sri Lanka Ports Authority (SLPA)** vehicle tracking system, built by Group SysCall (University of Moratuwa, Faculty of IT, 2013).
 
@@ -8,10 +8,10 @@ This is the web UI companion to the SLPA Windows application. It allows staff to
 
 ## Features
 
-- **Login system** — role-based authentication (Admin / User) via AJAX
-- **Driver records** — view and manage driver job information
-- **Destination tracking** — records destination and time for each job
-- **Responsive UI** — built with custom CSS and jQuery
+- **Login system** - role-based authentication (Admin / User) via AJAX
+- **Driver records** - view and manage driver job information
+- **Destination tracking** - records destination and time for each job
+- **Responsive UI** - built with custom CSS and jQuery
 
 ## Tech Stack
 
